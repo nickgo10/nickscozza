@@ -13,4 +13,4 @@
 <h2>🦾 Currently learning</h2>
 
 - <b>Database Admin Skills</b>
-- <b>CyberSecurity Apps</b>
+- <b>CyberSecurity Applications</b>
