@@ -10,6 +10,7 @@
 - <b>Python</b>
 - <b>SQL</b>
 
-<h2> Currently learning</h2>
+<h2>🦾 Currently learning</h2>
+
 - <b>Database Admin Skills</b>
-- <b>CyberSecurity Projects</b>
+- <b>CyberSecurity Apps</b>
