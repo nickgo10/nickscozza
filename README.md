@@ -1,9 +1,8 @@
-<h1>Hi, I'm Nick!</h1>
-
+<h1>Hi, I'm Nick!</h1></br> <a href= "https://www.linkedin.com/in/</h1>
 <h2>👨‍💻 Currently Working On:<h2>
   
-<b>Cybersecurity projects</b>
-<b>Database Admin knowledge</b>
+- <b>Cybersecurity projects</b>
+- <b>Database Admin knowledge</b>
 
 <h2>⚒️ Technical Skills</h2>
 <b>Python</b>
@@ -44,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
